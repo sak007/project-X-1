@@ -1,0 +1,8 @@
+This file contains the requirements to run this project.
+
+Currently the only requirement is that you have Python (any version in the 3.x series should be fine to run the project).
+
+We will be updating this as the project grows and gets more complex.
+
+Requirements:
+Python (any 3.x version will do)
