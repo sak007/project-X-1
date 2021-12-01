@@ -1,5 +1,5 @@
 # project-X
-# Hello! 
+# Hello!!
 
 ### Welcome to project-X! This is sample repo for Homework 2b for CSC 510.
 ### We'll be updating this project with more and more stuff as we go.
